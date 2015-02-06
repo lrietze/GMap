@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GMap</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="map_view_normal">Normal</string>
+    <string name="map_view_satellite">Satellite</string>
+    <string name="map_view_hybrid">Hybrid</string>
+	<string name="map_view_random">Random</string>
+</resources>

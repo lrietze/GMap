@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="demo.gmap.MainActivity" >
+
+    <item
+        android:id="@+id/map_normal"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/map_view_normal">
+        </item><item
+        android:id="@+id/map_satellite"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/map_view_satellite">
+        </item><item
+        android:id="@+id/map_hybrid"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/map_view_hybrid">
+        </item><item
+        android:id="@+id/map_random"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/map_view_random">
+        </item>
+
+</menu>
